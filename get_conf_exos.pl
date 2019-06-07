@@ -13,7 +13,7 @@ my $cur_date = strftime "%G%m%d", localtime;
 
 my $prompt = '/\S+ # $/';
 
-my $dir = "/home/ka";
+my $dir = "........";
 my $d_perm = "0755";
 my $f_perm = "644";
 
